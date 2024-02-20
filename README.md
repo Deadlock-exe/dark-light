@@ -2,4 +2,6 @@
 
 Theme toggler with hidden drawer
 
-![Light mode](assets/images/light.png?raw=true "Light Mode") ![Dark mode](assets/images/dark.png?raw=true "Dark Mode")
+<p align="left">
+  <img src="assets/images/light.png?raw=true" alt="Light Mode" width="300"/> <img src="assets/images/dark.png?raw=true" alt="Dark Mode" width="300"/>
+</p>
